@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\C_Sharp_Projects\\C_Sharp_Projects\\IncomeComparison\\IncomeComparsionProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C80F6-E182-4B16-8F15-965D2DBC1105}|IncomeComparsionProgram\\IncomeComparsionProgram.csproj|c:\\users\\owner\\onedrive\\desktop\\c_sharp_projects\\c_sharp_projects\\incomecomparison\\incomecomparsionprogram\\incomecomparsionprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C80F6-E182-4B16-8F15-965D2DBC1105}|IncomeComparsionProgram\\IncomeComparsionProgram.csproj|solutionrelative:incomecomparsionprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\C_Sharp_Projects\\C_Sharp_Projects\\IncomeComparison\\IncomeComparsionProgram\\IncomeComparsionProgram\\Program.cs",
+              "RelativeDocumentMoniker": "IncomeComparsionProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\C_Sharp_Projects\\C_Sharp_Projects\\IncomeComparison\\IncomeComparsionProgram\\IncomeComparsionProgram\\Program.cs",
+              "RelativeToolTip": "IncomeComparsionProgram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:16:33.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

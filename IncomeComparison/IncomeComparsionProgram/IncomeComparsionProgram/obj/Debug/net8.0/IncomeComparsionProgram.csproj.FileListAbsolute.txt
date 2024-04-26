@@ -1,0 +1,15 @@
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\bin\Debug\net8.0\IncomeComparsionProgram.exe
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\bin\Debug\net8.0\IncomeComparsionProgram.deps.json
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\bin\Debug\net8.0\IncomeComparsionProgram.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\bin\Debug\net8.0\IncomeComparsionProgram.dll
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\bin\Debug\net8.0\IncomeComparsionProgram.pdb
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.sourcelink.json
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.dll
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\refint\IncomeComparsionProgram.dll
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.pdb
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\IncomeComparsionProgram.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Desktop\C_Sharp_Projects\C_Sharp_Projects\IncomeComparison\IncomeComparsionProgram\IncomeComparsionProgram\obj\Debug\net8.0\ref\IncomeComparsionProgram.dll
